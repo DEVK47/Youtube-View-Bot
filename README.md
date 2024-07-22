@@ -1,10 +1,11 @@
 # Youtube-View-Bot
 
 
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=WewwW4EbFxU&pp=ygUfeW91dHViZSB2aWV3IGJvdCBhaW0gdG8gZGlnaXRhbA%3D%3D" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+Watch Yt View Bot Tutorial
+https://youtu.be/WewwW4EbFxU?si=V8uvzmZhcxi6WDgj
 
 
-
+**
 
 **Innovative YouTube View Bot Software: Revolutionizing Online Engagement**
 
