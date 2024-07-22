@@ -1,7 +1,7 @@
 # Youtube-View-Bot
 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/WewwW4EbFxU?si=LH3tqVNMLIq9y2Ne" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=WewwW4EbFxU&pp=ygUfeW91dHViZSB2aWV3IGJvdCBhaW0gdG8gZGlnaXRhbA%3D%3D" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 
